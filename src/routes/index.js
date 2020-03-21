@@ -1,5 +1,4 @@
 const {
-  swagger,
   countryFinder,
 } = require('../service');
 
